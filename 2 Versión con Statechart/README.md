@@ -1,1 +1,3 @@
-# STRD_PROY_2
+# Sistema de Estabilización de un Dron
+
+## Versión Centralizada y con Máquina de Estados 

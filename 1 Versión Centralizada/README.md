@@ -1,1 +1,3 @@
-# STRD_PROY_1
+# Sistema de Estabilización de un Dron
+
+## Versión Centralizada
