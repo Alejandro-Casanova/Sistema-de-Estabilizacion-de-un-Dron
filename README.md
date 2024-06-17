@@ -8,7 +8,10 @@ El sistema de estabilización se implementa en una tarjeta STM32F407G-DISC1 util
 
 ## Video Demostrativo
 
-[![Watch the video](https://i.ytimg.com/an_webp/u31qwQUeGuM/mqdefault_6s.webp?du=3000&sqp=CP68v7MG&rs=AOn4CLAizcPJmMiuV4VIA-_L3C5WDdwKyA)](https://youtu.be/u31qwQUeGuM?si=Z8UyyhxO_nEyXhhv)
+<p align="center">
+    <a href="https://youtu.be/37sEJJjmmXA" target="_blank" title="Go to video demo"><img alt="app video demo" src="https://i.ytimg.com/an_webp/37sEJJjmmXA/mqdefault_6s.webp?du=3000&sqp=CKDXwLMG&rs=AOn4CLAFysWPaFZmqUePh85OXH960GQ-KQ">
+    </a>
+</p>
 
 ## Puesta en marcha
 Debe utilizarse la IDE Keil uVision5 para importar y compilar cada proyecto.
@@ -57,7 +60,7 @@ Partiendo del sistema original, se implementó una versión distribuida, separan
 
 ## Montaje
 ### Centralizado (izquierda) / Distribuido (derecha)
-<p float="left">
+<p align="center">
     <img src="Documentación/Montaje/1 Montaje Centralizado.png" alt="montaje centralizado" height=250/>
     <img src="Documentación/Montaje/2 Montaje Distribuido.jpg" alt="montaje distribuido" height=250/>
 </p>
