@@ -9,7 +9,7 @@ El sistema de estabilización se implementa en una tarjeta STM32F407G-DISC1 util
 ## Video Demostrativo
 
 <p align="center">
-    <a href="https://youtu.be/37sEJJjmmXA" target="_blank" title="Go to video demo"><img alt="app video demo" src="https://i.ytimg.com/an_webp/37sEJJjmmXA/mqdefault_6s.webp?du=3000&sqp=CKDXwLMG&rs=AOn4CLAFysWPaFZmqUePh85OXH960GQ-KQ">
+    <a href="https://youtu.be/37sEJJjmmXA" target="_blank" title="Go to video demo"><img alt="video demo" src="https://img.youtube.com/vi/37sEJJjmmXA/hqdefault.jpg">
     </a>
 </p>
 
